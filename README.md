@@ -52,8 +52,8 @@ tasks-seeking-alpha/
 ```
 
 
-- **task.sql/**: Contains SQL scripts addressing various data queries and manipulations.
-- **task.py/**: Contains Python scripts for data processing, analysis, and other related tasks.
+- **task.sql**: Contains SQL scripts addressing various data queries and manipulations.
+- **task.py**: Contains Python scripts for data processing, analysis, and other related tasks.
 
 ## 📌  Getting Started
 
