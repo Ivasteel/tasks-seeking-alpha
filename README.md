@@ -28,34 +28,32 @@ The repository is organized as follows:
 ```bash
 tasks-seeking-alpha/
 │
-├── SQL_Tasks/
-│   ├── task1_a_1.sql
-│   ├── task1_a_2.sql
-│   ├── task1_b_1.sql
-│   ├── task1_b_2.sql
-│   ├── task2_1_1.sql
-│   ├── task2_1_2.sql
-│   ├── task2_2_1.sql
-│   ├── task2_2_2.sql
-│   ├── task2_3_1.sql
-│   ├── task2_3_2.sql
-│   └── task3.sql
+│── task1_a_1.sql
+│── task1_a_2.sql
+│── task1_b_1.sql
+│── task1_b_2.sql
+│── task2_1_1.sql
+│── task2_1_2.sql
+│── task2_2_1.sql
+│── task2_2_2.sql
+│── task2_3_1.sql
+│── task2_3_2.sql
+│── task3.sql
 │
-├── Python_Tasks/
-│   ├── task4.py
-│   ├── task5.py
-│   ├── task6.py
-│   ├── task8.1.py
-│   ├── task8.2.py
-│   ├── task8.3.py
-│   └── task8.4.py
+│── task4.py
+│── task5.py
+│── task6.py
+│── task8.1.py
+│── task8.2.py
+│── task8.3.py
+│── task8.4.py
 │
 └── README.md
 ```
 
 
-- **SQL_Tasks/**: Contains SQL scripts addressing various data queries and manipulations.
-- **Python_Tasks/**: Contains Python scripts for data processing, analysis, and other related tasks.
+- **task.sql/**: Contains SQL scripts addressing various data queries and manipulations.
+- **task.py/**: Contains Python scripts for data processing, analysis, and other related tasks.
 
 ## 📌  Getting Started
 
