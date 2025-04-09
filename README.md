@@ -1,6 +1,6 @@
-# Tasks for Seeking Alpha
+# SQL/Python Tasks
 
-This repository contains a collection of SQL and Python tasks developed for Seeking Alpha.  
+This repository contains a collection of some SQL and Python tasks.  
 Each task is designed to showcase specific skills and solutions relevant to data analysis and processing.
 
 ## Table of Contents
